@@ -1,0 +1,6 @@
+﻿  Main.cpp
+D:\dev\SudokuSolver\Main.cpp(24,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+D:\dev\SudokuSolver\Main.cpp(25,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+D:\dev\SudokuSolver\Main.cpp(49,34): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+D:\dev\SudokuSolver\Main.cpp(50,35): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  SudokuSolver.vcxproj -> D:\dev\SudokuSolver\Debug\SudokuSolver.exe
